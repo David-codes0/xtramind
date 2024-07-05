@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>311004611977-udt4qi92ckra8c1aog5ufq26iuagj0tu.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.311004611977-udt4qi92ckra8c1aog5ufq26iuagj0tu</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>311004611977-7ieifl1mrehuokkp72vg8h139kkvbh2e.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyCi82_IRyGhR6X3qU3LPqTatjaxg6d8Xn0</string>
+	<key>GCM_SENDER_ID</key>
+	<string>311004611977</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.xbetgroup.xtramind</string>
+	<key>PROJECT_ID</key>
+	<string>xtra-mind-70d4b</string>
+	<key>STORAGE_BUCKET</key>
+	<string>xtra-mind-70d4b.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:311004611977:ios:785aa80ca8ffb4615b8d58</string>
+</dict>
+</plist>

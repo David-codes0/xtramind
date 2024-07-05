@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "311004611977",
+    "project_id": "xtra-mind-70d4b",
+    "storage_bucket": "xtra-mind-70d4b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:311004611977:android:6ecae1b02caaf5b55b8d58",
+        "android_client_info": {
+          "package_name": "com.xbetgroup.xtramind"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "311004611977-7ieifl1mrehuokkp72vg8h139kkvbh2e.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.xbetgroup.xtramind",
+            "certificate_hash": "9bbb3186b2189ef16d8f272bdab59362c395cbb4"
+          }
+        },
+        {
+          "client_id": "311004611977-2iomg3t9ppa8r9akilq8j13h1eoppc9s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDUpT-V5J4V1FsjNLaCvaw1cn0Ay1_n8F8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "311004611977-2iomg3t9ppa8r9akilq8j13h1eoppc9s.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "311004611977-udt4qi92ckra8c1aog5ufq26iuagj0tu.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.xbetgroup.xtramind"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
